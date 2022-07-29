@@ -11,7 +11,7 @@ body{
     position: absolute;
     top: 0;
     right: 0;
-    width: 100%;
+    width: 100vw;
     height: 70px;
     background-color: #ffffff;
     box-shadow: 0px 5px 20px #7B7B7B29;
@@ -20,7 +20,7 @@ body{
 .subtitle{
     position: absolute;
     top: 70px;
-    width: 100%;
+    width: 100vw;
     height: 100px;
 
 }
@@ -68,7 +68,7 @@ body{
 } 
 
 .cards{
-    width: 100%;
+    width: 100vw;
     position: absolute;
     top: 170px;
 }
@@ -207,7 +207,7 @@ body{
 .formbutton{
     position: absolute;
     height: 1368px;
-    width: 100%;
+    width: 100vw;
     text-decoration: none;
     color: black;
 }
