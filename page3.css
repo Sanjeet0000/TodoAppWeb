@@ -71,7 +71,7 @@ body{
 }
 
 .addnewtask{
-    position: absolute;
+    position: relative;
     top: 50px;
     left: 770px;
     font-size: 25px;
